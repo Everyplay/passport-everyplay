@@ -1,7 +1,7 @@
 {
   "name": "passport-everyplay",
   "version": "0.0.1",
-  "description": "Everyplay authentication strategy for Passport.",
+  "description": "Everyplay authentication strategy for Passport.js",
   "author": { "name": "Matti Savolainen", "email": "matti@applifier.com", "url": "http://www.everyplay.com/" },
   "repository": {
     "type": "git",
