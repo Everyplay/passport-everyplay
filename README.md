@@ -75,7 +75,9 @@ For a complete, working example, refer to the [login example](https://github.com
 
 (The MIT License)
 
-Copyright (c) 2013 Matti Savolainen
+Original work Copyright (c) 2011 Jared Hanson
+Modified work Copyright (c) 2013 by Matti Savolainen and Applifier
+
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
