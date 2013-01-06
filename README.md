@@ -75,7 +75,7 @@ For a complete, working example, refer to the [login example](https://github.com
 
 (The MIT License)
 
-Original work Copyright (c) 2011 Jared Hanson
+Original work Copyright (c) 2011 Jared Hanson   
 Modified work Copyright (c) 2013 by Matti Savolainen and Applifier
 
 
